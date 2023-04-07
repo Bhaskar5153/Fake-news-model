@@ -18,5 +18,7 @@ Decision tree is a supervised machine learning algorithm that can predict the ta
 
 for more information, you can refer to online documentation: https://scikit-learn.org/stable/modules/tree.html
 
+In the dataset, label 0 = Fake, 1 = Legit
+
 
 
