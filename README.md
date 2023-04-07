@@ -5,7 +5,7 @@ ML model for identifying legit or fake news
 ############################################################
 
 This is a very simple classification problem. The dataset has two features called title and text and dependent variable called Label.
-We drop the title feature as we want to train our model only the actual context. We check the count of each label and found that dataset is pretty balanced. 
+We drop the title feature as we want to train our model only on the actual context. We check the count of each label and found that dataset is pretty balanced. 
 now, we need to perform the data preprocessing, but the "Count vector" from SKlearn takes care of that for us. 
 
 
